@@ -16,6 +16,7 @@ This project simulates a real-world Data Analyst workflow using an e-commerce in
 The project covers the complete analytics pipeline — from database creation and data cleaning to exploratory analysis and business intelligence reporting. It focuses on solving practical inventory and pricing-related problems commonly faced in fast-paced e-commerce environments.
 
 Key Objectives
+
 ✅ Set up and manage a messy, real-world e-commerce inventory database
 
 ✅ Perform Exploratory Data Analysis (EDA) to understand product categories, stock availability, pricing patterns, and inconsistencies
@@ -27,6 +28,7 @@ Key Objectives
 ✅ Practice analytical thinking and data storytelling using real-world business scenarios
 
 Skills Demonstrated
+
 SQL for data querying and transformation
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
