@@ -17,10 +17,15 @@ The project covers the complete analytics pipeline — from database creation an
 
 Key Objectives
 ✅ Set up and manage a messy, real-world e-commerce inventory database
+
 ✅ Perform Exploratory Data Analysis (EDA) to understand product categories, stock availability, pricing patterns, and inconsistencies
+
 ✅ Implement Data Cleaning techniques to handle null values, remove invalid records, standardize data formats, and convert pricing values from paise to rupees
+
 ✅ Write business-driven SQL queries to generate insights related to inventory management, pricing strategy, stock availability, discounts, and potential revenue
+
 ✅ Practice analytical thinking and data storytelling using real-world business scenarios
+
 Skills Demonstrated
 SQL for data querying and transformation
 Data cleaning and preprocessing
